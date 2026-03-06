@@ -13,9 +13,9 @@ This project aims to solve that problem by building an interactive Power BI dash
 📸 Dashboard Preview
 
 Main Dashboard
-Role Drill-Through Page
-<img width="1946" height="1098" alt="Screenshot 2026-03-06 153001" src="https://github.com/user-attachments/assets/62f03935-c946-4410-8ae0-81e6de9d2a5e" />
 
+<img width="1946" height="1098" alt="Screenshot 2026-03-06 153001" src="https://github.com/user-attachments/assets/62f03935-c946-4410-8ae0-81e6de9d2a5e" />
+Role Drill-Through Page
 <img width="1954" height="1088" alt="Screenshot 2026-03-06 153036" src="https://github.com/user-attachments/assets/a87f1ab8-ed01-482a-a124-291a9ca74de4" />
 
 🎯 Skills Demonstrated
