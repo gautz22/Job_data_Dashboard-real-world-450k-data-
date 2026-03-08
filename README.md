@@ -1,4 +1,8 @@
 📊 Data Jobs Market Analysis Dashboard (Power BI)
+Main Dashboard
+<img width="1946" height="1098" alt="Screenshot 2026-03-06 153001" src="https://github.com/user-attachments/assets/62f03935-c946-4410-8ae0-81e6de9d2a5e" />
+Role Drill-Through Page
+<img width="1954" height="1088" alt="Screenshot 2026-03-06 153036" src="https://github.com/user-attachments/assets/a87f1ab8-ed01-482a-a124-291a9ca74de4" />
 
 This project is an interactive Power BI dashboard built to analyze the global Data Jobs market, including salary trends, job demand, employment types, and hiring platforms.
 
@@ -10,13 +14,6 @@ The demand for data professionals such as Data Scientists, Data Engineers, and D
 
 This project aims to solve that problem by building an interactive Power BI dashboard that analyzes global data job listings. The dashboard provides insights into salary trends, job demand over time, employment types, and job distribution across regions, allowing users to explore the data and make more informed career and hiring decisions.
 
-📸 Dashboard Preview
-
-Main Dashboard
-
-<img width="1946" height="1098" alt="Screenshot 2026-03-06 153001" src="https://github.com/user-attachments/assets/62f03935-c946-4410-8ae0-81e6de9d2a5e" />
-Role Drill-Through Page
-<img width="1954" height="1088" alt="Screenshot 2026-03-06 153036" src="https://github.com/user-attachments/assets/a87f1ab8-ed01-482a-a124-291a9ca74de4" />
 
 🎯 Skills Demonstrated
 
